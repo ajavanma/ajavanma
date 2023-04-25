@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
 <h3 align="center">Civil Engineer, researching Computer Vision</h3>
 
-- 💻 I’m currently working on <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
+- 💻 Currently working on <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
 
 
 
@@ -12,7 +12,7 @@
   Lets connect:
 </h3>
 <p align="left">
-  <a href="https://linkedin.com/in/arash-javanmardi-9567b9167" target="blank">Visit my LinkedIn profile</a>
+  <a href="https://linkedin.com/in/arash-javanmardi-9567b9167" target="blank"></a>
 </p>
 
 
