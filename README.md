@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
 <h3 align="center">Civil Engineer, researching Computer Vision</h3>
 
-- 🔬 I’m currently working on **RPTU AI Toolkit**
-
-- 💻 Landing Page [https://ajavanma.github.io/](https://ajavanma.github.io/)
+- 💻 I’m currently working on [https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation](**RPTU AI Toolkit**)
 
 - ✉️ How to reach me **ajavanma@rptu.de**
 
