@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
 <h3 align="center">Civil Engineer, researching Computer Vision</h3>
 
-- 💻 Currently working on <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
+- 💻 Currently working on: <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
 
-- 📬 Email me **ajavanma@rptu.de**
+- 📬 Email me: **ajavanma@rptu.de**
 
 <h3 align="left">
-  Lets connect: 
+  Let's connect: 
   <a href="https://linkedin.com/in/arash-javanmardi-9567b9167" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arash-javanmardi-9567b9167" height="15" width="30" />
   </a>
