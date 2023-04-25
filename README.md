@@ -8,11 +8,12 @@
 - ✉️ How to reach me **ajavanma@rptu.de**
 
 <h3 align="left">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arash-javanmardi-9567b9167" height="15" width="30" />
   Lets connect:
 </h3>
-<p align="center">
-  <a href="https://linkedin.com/in/arash-javanmardi-9567b9167" target="blank"></a>
+<p align="left">
+  <a href="https://linkedin.com/in/arash-javanmardi-9567b9167" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arash-javanmardi-9567b9167" height="15" width="30" />
+  </a>
 </p>
 
 
