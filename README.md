@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
 <h3 align="center">Civil Engineer, researching Computer Vision</h3>
 
-- <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="RPTU AI Toolkit" width="40" height="40"/> </a>
+- 💻 I’m currently working on <a RPTU AI Toolkit href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="RPTU AI Toolkit" width="40" height="40"/> </a>
 
 - ✉️ How to reach me **ajavanma@rptu.de**
 
