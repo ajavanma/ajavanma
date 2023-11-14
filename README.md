@@ -1,9 +1,17 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
 <h3 align="center">Civil Engineer, researching Computer Vision</h3>
 
-- 💻 Currently working on: <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
+- 💻 Currently working on:
+  <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
+  <a href="https://gitlab.campusonline.community/tum/connectum/" target="_blank" rel="noreferrer"> TUM CampusOnline </a>                
 
-- 📬 Email me: **ajavanma@rptu.de**
+- 🌱 Currently learning: **Docker & Kubernetes**
+
+- 👾 Ask me about: **Economics**
+
+- 📬 Email me: **aj.javanmardi@tum.de**
+
+- 🍀 Fun fact about me: I'm usually called **the Python guy**!
 
 <h3 align="left">
   Let's connect: 
