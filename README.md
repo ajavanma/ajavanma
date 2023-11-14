@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
 <h3 align="center">Civil Engineer, researching Computer Vision</h3>
 
-- 💻 Currently working on:
-  <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a>
+- 💻 Currently working on: /
+  <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a> /
   <a href="https://gitlab.campusonline.community/tum/connectum/" target="_blank" rel="noreferrer"> TUM CampusOnline </a>                
 
 - 🌱 Currently learning: **Docker & Kubernetes**
