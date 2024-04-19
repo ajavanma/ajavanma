@@ -12,7 +12,7 @@
 
 - 📬 Email me: **aj.javanmardi@gmail.com**
 
-- 🍀 Fun fact about me: I spend more time sitting down than standing up!
+- 🍀 Fun fact about me: **I spend more time sitting down than standing up!**
 
 <h3 align="left">
   Let's connect: 
