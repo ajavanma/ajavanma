@@ -8,11 +8,11 @@
 
 - 🌱 Currently learning: **Docker & Kubernetes**
 
-- 👾 Ask me about: **Economics**
+- 👾 Ask me about: **Psychology**
 
-- 📬 Email me: **aj.javanmardi@tum.de**
+- 📬 Email me: **aj.javanmardi@gmail.com**
 
-- 🍀 Fun fact about me: I'm usually called **the Python guy**!
+- 🍀 Fun fact about me: I spend more time sitting down than standing up!
 
 <h3 align="left">
   Let's connect: 
