@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
-<h3 align="center">Civil Engineer, researching Computer Vision</h3>
+<h3 align="center">Programmer with civil eng background</h3>
 
 - 💻 Currently working on: 
   <a href="https://gitlab.rhrk.uni-kl.de/scan-to-bim/minkowski-building-segmentation/" target="_blank" rel="noreferrer"> RPTU AI Toolkit </a> /
