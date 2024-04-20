@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
-<h3 align="center">Programmer with civil eng background</h3>
+<h3 align="center">Data scientist with civil eng background</h3>
 
 - 💻 Currently working on: 
   <a href="https://gitlab.campusonline.community/tum/connectum/" target="_blank" rel="noreferrer"> TUM CampusOnline </a> /
