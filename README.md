@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning: **Docker & Kubernetes**
 
-- 👾 Ask me about: **Psychology**
+- 👾 Ask me about: **Economics**
 
 - 📬 Email me: **aj.javanmardi@gmail.com**
 
