@@ -2,8 +2,8 @@
 <h3 align="center">Developer with civil eng background</h3>
 
 - 💻 Currently working on: 
-  <a href="https://gitlab.campusonline.community/tum/connectum/" target="_blank" rel="noreferrer"> TUM CampusOnline </a> /
-  <a href="https://github.com/KIT-IMB-Modeling-And-Digitalization/CarboWebApp" target="_blank" rel="noreferrer"> CarboWebApp </a>          
+  <a href="https://gitlab.campusonline.community/tum/connectum/" target="_blank" rel="noreferrer"> TUM campus management system </a> /
+  TUM school portal: Koinon </a>    
 
 - 🌱 Currently learning: **Go**
 
