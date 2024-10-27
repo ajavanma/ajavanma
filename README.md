@@ -2,8 +2,7 @@
 <h3 align="center">Developer with civil eng background</h3>
 
 - 💻 Currently working on: 
-  <a href="https://gitlab.campusonline.community/tum/connectum/" target="_blank" rel="noreferrer"> TUM campus management system </a> /
-  TUM school portal: Koinon </a>    
+  Aupal </a>    
 
 - 🌱 Currently learning: **Go**
 
