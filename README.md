@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arash 🪬</h1>
-<h3 align="center">Developer with civil eng background</h3>
+<h3 align="center">Programmer with engineering background</h3>
 
 - 💻 Currently working on: 
   Aupal </a>    
