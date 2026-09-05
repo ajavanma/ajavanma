@@ -15,20 +15,6 @@ Currently at **Ströer / Infoscreen**, with previous experience in university an
 - **Reliability and security:** Observability, monitoring, authentication, and access control.
 - **ML infrastructure:** Data pipelines, model training and inference, and GPU workloads.
 
-## Technical skills
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Java, Go, Python, TypeScript, Bash |
-| Backend & data | Spring Boot, FastAPI, Kafka, PostgreSQL, MySQL |
-| Cloud & platform | AWS, Kubernetes, Docker, Helm, Terraform, GitLab CI/CD, Ansible, Linux |
-| Observability & security | Prometheus, Grafana, Nagios, Keycloak, OIDC/JWT, RBAC |
-| AI / ML | PyTorch, CUDA, Pandas, MinkowskiEngine |
-
 ## Open source
 
 Creator of [RPTU AI Toolkit](https://github.com/ajavanma/RPTU_AI_Toolkit), a Python/PyTorch toolkit for point-cloud processing and ML workflows, connecting applied research with digital-twin applications.
-
-**Education:** B.Sc. in Civil Engineering, University of Sistan and Baluchestan.
-
-**Languages:** English, German, and Farsi — fluent.
