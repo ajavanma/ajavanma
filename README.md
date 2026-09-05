@@ -1,24 +1,36 @@
-<h1 align="center">Hi, I'm Arash</h1>
-<h3 align="center">Programmer with engineering background</h3>
+# Hi, I'm Arash
 
-- 💻 Currently working on: 
-  Aupal </a>    
+**Senior Software & Platform Engineer · Munich, Germany**
 
-- 🌱 Currently learning: **Go**
+I build and operate production platforms, from backend services and distributed systems to deployment automation, observability, and ML infrastructure. My core languages are **Java, Go, and Python**.
 
-- 👾 Ask me about: **Economics**
+Currently a **Senior Application Developer at Ströer / Infoscreen**, working on a platform for managing a large digital-display fleet. Previously, I built backend services at **TUM**, VR orchestration and GPU infrastructure at **DFKI**, and ML pipelines for the **HumanTech** research project at the Technical University of Kaiserslautern.
 
-- 📬 Email me: **aj.javanmardi@gmail.com**
+[Website](https://arash.javanmardi.info) · [LinkedIn](https://www.linkedin.com/in/arash-javanmardi-9567b9167/) · [Email](mailto:aj.javanmardi@gmail.com)
 
-- 🍀 Fun fact about me: **I spend more time sitting down than standing up!**
+## Selected work
 
-<h3 align="left">
-  Let's connect: 
-  <a href="https://linkedin.com/in/arash-javanmardi-9567b9167" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arash-javanmardi-9567b9167" height="15" width="30" />
-  </a>
-</h3>
+- **Reliable fleet configuration:** Designed and operated an ingestion pipeline distributing brightness and color-temperature settings across **~200k devices supporting ~50k displays**, with idempotency, retries, failure isolation, and monitoring.
+- **Scheduling at scale:** Architected hierarchical scheduling with inherited operating rules, centralizing **~240k records** and replacing **~4.5k manual interventions**, saving an estimated **€200k/year**.
+- **Platform operations:** Established CI/CD across three services, built observability with Prometheus and Grafana, and implemented centralized authentication and RBAC with Keycloak. Rearchitected monitoring across **12 Nagios instances**, reducing refresh latency from minutes to **~200 ms**.
+- **ML infrastructure:** Built Go orchestration for VR experiments at DFKI and deployed CUDA workloads on Kubernetes with Terraform and Helm, including GPU-aware scheduling, resource controls, and health probes.
 
-<h3 align="left">Toolbox:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I also co-lead product and engineering planning, turning business requirements into prioritized implementation work.
 
+## Open source
+
+### [RPTU AI Toolkit](https://github.com/ajavanma/RPTU_AI_Toolkit)
+
+A config-driven **Python / PyTorch** pipeline for LiDAR preprocessing, training, evaluation, and inference using **MinkowskiEngine**. It connects point-cloud segmentation with Blender workflows to generate BIM-compliant digital twins.
+
+## Toolbox
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Java, Go, Python, TypeScript, Bash |
+| Backend & data | Spring Boot, FastAPI, Kafka, PostgreSQL, MySQL, REST APIs, WebSockets, MQTT |
+| Cloud & platform | AWS, Kubernetes, Docker, Helm, Terraform, GitLab CI/CD, Ansible, Linux |
+| Observability & security | Prometheus, Grafana, Nagios, IAM, Keycloak, OIDC/JWT, RBAC |
+| AI / ML | PyTorch, CUDA, Pandas, MinkowskiEngine, ML data pipelines, training & inference |
+
+My background is in civil engineering; my work now connects software, infrastructure, and applied ML. Fluent in **English, German, and Farsi**.
