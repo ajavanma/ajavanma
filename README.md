@@ -5,16 +5,3 @@
 [Website](https://arash.javanmardi.info) · [LinkedIn](https://www.linkedin.com/in/arash-javanmardi-9567b9167/) · [Email](mailto:aj.javanmardi@gmail.com)
 
 Software and platform engineer with experience in backend development, distributed systems, cloud infrastructure, and applied machine learning. I design and operate services with a focus on reliability, maintainability, and automation, working primarily with **Java, Go, and Python**.
-
-Currently at **Ströer / Infoscreen**, with previous experience in university and applied AI research environments. My work combines hands-on engineering with architecture and product planning, translating business requirements into practical technical solutions.
-
-## Areas of expertise
-
-- **Backend engineering:** Service architecture, APIs, asynchronous processing, and data integration.
-- **Platform engineering:** Cloud infrastructure, container orchestration, infrastructure as code, and CI/CD.
-- **Reliability and security:** Observability, monitoring, authentication, and access control.
-- **ML infrastructure:** Data pipelines, model training and inference, and GPU workloads.
-
-## Open source
-
-Creator of [RPTU AI Toolkit](https://github.com/ajavanma/RPTU_AI_Toolkit), a Python/PyTorch toolkit for point-cloud processing and ML workflows, connecting applied research with digital-twin applications.
