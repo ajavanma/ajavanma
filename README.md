@@ -2,11 +2,13 @@
 
 **Senior Software & Platform Engineer · Munich, Germany**
 
-[Website](https://arash.javanmardi.info) · [LinkedIn](https://www.linkedin.com/in/arash-javanmardi-9567b9167/) · [Email](mailto:aj.javanmardi@gmail.com)
-
 Software and platform engineer with experience in backend development, distributed systems, cloud infrastructure, and applied machine learning. I design and operate services with a focus on reliability, maintainability, and automation, working primarily with **Java, Go, and Python**.
 
----
+<p align="center">
+  <a href="https://arash.javanmardi.info"><img src="https://img.shields.io/badge/Website-30363D?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIxIDEyYTkgOSAwIDEgMS0xOCAwIDkgOSAwIDAgMSAxOCAwWk0zIDEyaDE4TTEyIDNjNSA1IDUgMTMgMCAxOC01LTUtNS0xMyAwLTE4WiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0JENUUxIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Website" height="28"></a>
+  <a href="https://www.linkedin.com/in/arash-javanmardi-9567b9167/"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0NCRDVFMSIgZD0iTTUgOEgxdjE1aDRWOFpNMyAxYTIuNSAyLjUgMCAxIDAgMCA1IDIuNSAyLjUgMCAwIDAgMC01Wk04IDh2MTVoNHYtOGMwLTQgNi00IDYgMHY4aDRWMTRjMC03LTctOC0xMC00VjhIOFoiLz48L3N2Zz4%3D" alt="LinkedIn" height="28"></a>
+  <a href="mailto:aj.javanmardi@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTMgNWgxOHYxNEgzWk0zIDVsOSA4IDktOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0JENUUxIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Email" height="28"></a>
+</p>
 
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br><br>
