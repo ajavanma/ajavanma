@@ -11,6 +11,14 @@ Software and platform engineer with experience in backend development, distribut
 </p>
 
 <p align="center">
+  <sub><b>OPEN SOURCE</b></sub><br><br>
+  <a href="https://github.com/alibaba/async_simple/pull/477"><img src="https://img.shields.io/badge/alibaba%2Fasync__simple-PR%20%23477%20merged-8250DF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Merged contribution: alibaba/async_simple PR #477" height="28"></a>
+</p>
+
+- [**alibaba/async_simple**](https://github.com/alibaba/async_simple/pull/477) — Merged contribution making CMake benchmarks optional, with regression coverage.
+- [**RPTU AI Toolkit**](https://github.com/ajavanma/RPTU_AI_Toolkit) — Python research toolkit for point-cloud semantic segmentation, with preprocessing utilities and CPU unit tests.
+
+<p align="center">
   <sub><b>LANGUAGES</b></sub><br><br>
   <img src="https://img.shields.io/badge/Java-164E63?style=for-the-badge&amp;logo=openjdk&amp;logoColor=67E8F9" alt="Java" height="28">
   <img src="https://img.shields.io/badge/Go-164E63?style=for-the-badge&amp;logo=go&amp;logoColor=67E8F9" alt="Go" height="28">
