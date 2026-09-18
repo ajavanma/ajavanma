@@ -2,7 +2,7 @@
 
 **Senior Software & Platform Engineer · Munich, Germany**
 
-Software and platform engineer with experience in backend development, distributed systems, cloud infrastructure, and applied machine learning. I design and operate services with a focus on reliability, maintainability, and automation, working primarily with **Java, Go, and Python**.
+I build backend services and platforms, mostly with **Java, Go, and Python**. I've worked on Kubernetes and GitOps, MQTT messaging for device fleets, observability, and GPU workloads for computer vision and point-cloud ML.
 
 <p align="center">
   <a href="https://arash.javanmardi.info"><img src="https://img.shields.io/badge/Website-30363D?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIxIDEyYTkgOSAwIDEgMS0xOCAwIDkgOSAwIDAgMSAxOCAwWk0zIDEyaDE4TTEyIDNjNSA1IDUgMTMgMCAxOC01LTUtNS0xMyAwLTE4WiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0JENUUxIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Website" height="28"></a>
@@ -11,12 +11,9 @@ Software and platform engineer with experience in backend development, distribut
 </p>
 
 <p align="center">
-  <sub><b>OPEN SOURCE</b></sub><br><br>
+  <sub><b>OPEN-SOURCE CONTRIBUTIONS</b></sub><br><br>
   <a href="https://github.com/alibaba/async_simple/pull/477"><img src="https://img.shields.io/badge/alibaba%2Fasync__simple-PR%20%23477%20merged-8250DF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Merged contribution: alibaba/async_simple PR #477" height="28"></a>
 </p>
-
-- [**alibaba/async_simple**](https://github.com/alibaba/async_simple/pull/477) — Merged contribution making CMake benchmarks optional, with regression coverage.
-- [**RPTU AI Toolkit**](https://github.com/ajavanma/RPTU_AI_Toolkit) — Python research toolkit for point-cloud semantic segmentation, with preprocessing utilities and CPU unit tests.
 
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br><br>
