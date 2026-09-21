@@ -1,6 +1,6 @@
 # Arash Javanmardi
 
-I build backend services and platforms, mostly with Java, Go, and Python. I've worked on Kubernetes and GitOps, MQTT messaging for device fleets, observability, and GPU workloads for computer vision and point-cloud ML.
+I build backend services and platforms, mostly with Java, Go, and Python. I've worked on Kubernetes, MQTT messaging for device fleets, observability, and GPU workloads for computer vision and point cloud ML.
 
 <p align="center">
   <a href="https://arash.javanmardi.info"><img src="https://img.shields.io/badge/Website-30363D?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIxIDEyYTkgOSAwIDEgMS0xOCAwIDkgOSAwIDAgMSAxOCAwWk0zIDEyaDE4TTEyIDNjNSA1IDUgMTMgMCAxOC01LTUtNS0xMyAwLTE4WiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQ0JENUUxIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg%3D%3D" alt="Website" height="28"></a>
