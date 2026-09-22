@@ -10,10 +10,11 @@ I build backend services and platforms, mostly with Java, Go, and Python. I've w
 
 <p align="center">
   <sub><b>OPEN-SOURCE CONTRIBUTIONS</b></sub><br><br>
-  <a href="https://github.com/prometheus/client_golang/pull/2125">Prometheus</a> &nbsp;·&nbsp;
-  <a href="https://github.com/twmb/franz-go/pull/1468">franz-go</a> &nbsp;·&nbsp;
-  <a href="https://github.com/danielqsj/kafka_exporter/pull/534">Kafka Exporter</a> &nbsp;·&nbsp;
-  <a href="https://github.com/alibaba/async_simple/pull/477">async_simple</a>
+  <a href="https://github.com/prometheus/client_golang/pull/2125"><img src="https://img.shields.io/badge/Prometheus-30363D?style=for-the-badge&amp;logo=prometheus&amp;logoColor=A9B58A" alt="Prometheus" height="28"></a>
+  <a href="https://github.com/NVIDIA/gpu-operator/pull/2922"><img src="https://img.shields.io/badge/NVIDIA%20GPU%20Operator-30363D?style=for-the-badge&amp;logo=nvidia&amp;logoColor=A9B58A" alt="NVIDIA GPU Operator" height="28"></a>
+  <a href="https://github.com/twmb/franz-go/pull/1468"><img src="https://img.shields.io/badge/franz--go-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=A9B58A" alt="franz-go" height="28"></a>
+  <a href="https://github.com/danielqsj/kafka_exporter/pull/534"><img src="https://img.shields.io/badge/Kafka%20Exporter-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=A9B58A" alt="Kafka Exporter" height="28"></a>
+  <a href="https://github.com/alibaba/async_simple/pull/477"><img src="https://img.shields.io/badge/async__simple-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=A9B58A" alt="async_simple" height="28"></a>
 </p>
 
 <p align="center">
