@@ -9,19 +9,12 @@ I build backend services and platforms, mostly with Java, Go, and Python. I've w
 </p>
 
 <p align="center">
-  <sub><b>SELECTED OPEN-SOURCE CONTRIBUTIONS</b></sub>
+  <sub><b>OPEN-SOURCE CONTRIBUTIONS</b></sub><br><br>
+  <a href="https://github.com/prometheus/client_golang/pull/2125">Prometheus</a> &nbsp;·&nbsp;
+  <a href="https://github.com/twmb/franz-go/pull/1468">franz-go</a> &nbsp;·&nbsp;
+  <a href="https://github.com/danielqsj/kafka_exporter/pull/534">Kafka Exporter</a> &nbsp;·&nbsp;
+  <a href="https://github.com/alibaba/async_simple/pull/477">async_simple</a>
 </p>
-
-| Project | Contribution | Pull requests |
-| --- | --- | --- |
-| [Prometheus Go client](https://github.com/prometheus/client_golang) | Finalized OpenMetrics output in metric test helpers, including empty results. | [#2125](https://github.com/prometheus/client_golang/pull/2125) · **Merged** |
-| [franz-go](https://github.com/twmb/franz-go) | Fixed UTF-8 decoding and regex mismatch handling in Kafka record readers. | [#1467](https://github.com/twmb/franz-go/pull/1467), [#1468](https://github.com/twmb/franz-go/pull/1468) · **Merged** |
-| [Kafka Exporter](https://github.com/danielqsj/kafka_exporter) | Fixed a startup panic when metrics are served at `/`, preserving the health endpoint. | [#534](https://github.com/danielqsj/kafka_exporter/pull/534) · **Merged** |
-| [Alibaba async_simple](https://github.com/alibaba/async_simple) | Made benchmark discovery and targets optional in CMake, with regression coverage. | [#477](https://github.com/alibaba/async_simple/pull/477) · **Merged** |
-| [Cobra](https://github.com/spf13/cobra) | Proposed consistent normalized flag handling in validation groups and shell completion. | [#2502](https://github.com/spf13/cobra/pull/2502) · **Open** |
-| [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) | Proposed honoring configured priority classes in GPU monitoring and validation DaemonSets. | [#2922](https://github.com/NVIDIA/gpu-operator/pull/2922) · **Open** |
-
-<sub>Selected upstream work · PR status checked 22 September 2026.</sub>
 
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br><br>
